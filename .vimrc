@@ -9,5 +9,7 @@ set mouse=a       " enable mouse in VIM
 set hlsearch      " enable high-light search
 set showmatch     " show the matched brackets
 set showmode      " show insert/normal mode
+set showcmd       " show the inputtingt status line
+set cursorline    " high-light the current line where cursor is on
 set ruler
 syntax on
