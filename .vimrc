@@ -9,4 +9,5 @@ set mouse=a       " enable mouse in VIM
 set hlsearch      " enable high-light search
 set showmatch     " show the matched brackets
 set showmode      " show insert/normal mode
+set ruler
 syntax on
