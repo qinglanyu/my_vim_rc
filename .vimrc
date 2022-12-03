@@ -13,4 +13,6 @@ set showmode      " show insert/normal mode
 set showcmd       " show the inputtingt status line
 set cursorline    " high-light the current line where cursor is on
 set ruler
+
+filetype on
 syntax on
