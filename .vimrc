@@ -6,6 +6,7 @@ set smartindent
 set autoindent
 set expandtab
 set cindent
+
 set mouse=a       " enable mouse in VIM
 set hlsearch      " enable high-light search
 set showmatch     " show the matched brackets
@@ -13,6 +14,9 @@ set showmode      " show insert/normal mode
 set showcmd       " show the inputtingt status line
 set cursorline    " high-light the current line where cursor is on
 set ruler
+
+set laststatus=2    " always show statusline
+set showtabline=2   " always show tabline
 
 filetype on
 syntax on
