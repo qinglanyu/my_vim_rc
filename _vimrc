@@ -20,6 +20,7 @@ set ruler
 
 set laststatus=2    " always show statusline
 set showtabline=2   " always show tabline
+set backspace=2     " enable <--Backspace deleting in insert mode
 
 set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
 set termencoding=utf-8
